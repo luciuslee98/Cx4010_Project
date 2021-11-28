@@ -22,9 +22,11 @@ We then generate a large number of plaintext/ciphertext pairs using randomly gen
 Then we can use the chosen differential characteristic to obtain bits of the last round key.
 
 ## Research and design
-References: https://www.engr.mun.ca/~howard/PAPERS/ldc_tutorial.pdf (Howard M. Heys tutorial on cryptanalysis)
-            https://github.com/physics-sec/Differential-Cryptanalysis (Used as references for source code of differential cryptanalysis and key generation)
+References:
+
+https://www.engr.mun.ca/~howard/PAPERS/ldc_tutorial.pdf (Howard M. Heys tutorial on cryptanalysis)
+
+https://github.com/physics-sec/Differential-Cryptanalysis (Used as references for source code of differential cryptanalysis and key generation)
             
 ## Use of code
-Run 
-## Motivation
+Run SPN_attack - imports SPN_Make and differential_cryptanalysis_lib
