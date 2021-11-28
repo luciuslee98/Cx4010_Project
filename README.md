@@ -30,3 +30,5 @@ https://github.com/physics-sec/Differential-Cryptanalysis (Used as references fo
             
 ## Use of code
 Run SPN_attack - imports SPN_Make and differential_cryptanalysis_lib
+## Motivation
+A 4 round SPN Cipher is considered to be a weak cipher. By implementing a basic differential cryptanalysis, we can study the basics of cryptanalysis and how the process of attacking by hackers is done.
